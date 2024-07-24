@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mcqgenrator
+Version: 0.0.1
+Author: Eswar Yalakanti
+Author-email: yalakantieswar@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: langchain-openai
